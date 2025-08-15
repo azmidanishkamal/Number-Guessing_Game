@@ -1,8 +1,8 @@
-# 🎯 Number Guessing Game - React App
+# Number Guessing Game - React App
 
 A beautiful, modern React web application that brings the classic number guessing game to life with stunning UI, animations, and responsive design.
 
-## ✨ Features
+## Features
 
 - **Beautiful UI**: Modern glassmorphism design with gradient backgrounds
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile
@@ -12,7 +12,7 @@ A beautiful, modern React web application that brings the classic number guessin
 - **Local Storage**: Saves your best score between sessions
 - **Keyboard Support**: ESC key to close modals
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -41,9 +41,9 @@ Make sure you have Node.js installed on your system. You can download it from [n
    http://localhost:3000
    ```
 
-3. **Enjoy the game!** 🎮
+3. **Enjoy the game!** 
 
-## 🎮 How to Play
+## How to Play
 
 1. The app will automatically generate a random number between 1 and 100
 2. Enter your guess in the input field
@@ -52,28 +52,28 @@ Make sure you have Node.js installed on your system. You can download it from [n
 5. Keep guessing until you find the correct number!
 6. Try to beat your best score
 
-## 🛠️ Available Scripts
+## Available Scripts
 
 - `npm start` - Runs the app in development mode
 - `npm build` - Builds the app for production
 - `npm test` - Launches the test runner
 - `npm eject` - Ejects from Create React App (not recommended)
 
-## 📱 Browser Compatibility
+## Browser Compatibility
 
 - Chrome (recommended)
 - Firefox
 - Safari
 - Edge
 
-## 🎨 Technologies Used
+## Technologies Used
 
 - **React 18** - Modern React with hooks
 - **CSS3** - Custom animations and responsive design
 - **HTML5** - Semantic markup
 - **JavaScript ES6+** - Modern JavaScript features
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -88,7 +88,7 @@ src/
 └── index.css           # Global styles
 ```
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Port Already in Use
 If you get an error about port 3000 being in use:
@@ -108,7 +108,7 @@ rm -rf node_modules package-lock.json
 npm install
 ```
 
-## 🎯 Game Features
+##  Game Features
 
 - **Random Number Generation**: Uses JavaScript's Math.random() for fair gameplay
 - **Input Validation**: Ensures only valid numbers between 1-100 are accepted
@@ -116,7 +116,7 @@ npm install
 - **Responsive Feedback**: Clear visual feedback for each guess
 - **Game State Management**: Proper React state management for game flow
 
-## 🌟 Future Enhancements
+##  Future Enhancements
 
 - Sound effects
 - Multiple difficulty levels
@@ -126,6 +126,7 @@ npm install
 
 ---
 
-**Happy Guessing! 🎉**
+**Happy Guessing!**
 
 If you have any questions or issues, feel free to reach out!
+
